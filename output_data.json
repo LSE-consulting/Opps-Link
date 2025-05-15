@@ -1,5 +1,5 @@
 {
-    "hitCount": 69,
+    "hitCount": 68,
     "noticeList": [
         {
             "score": 1,
@@ -2056,42 +2056,6 @@
         {
             "score": 1,
             "item": {
-                "id": "2e21e570-0790-47c2-801a-8629d928ea6c",
-                "parentId": null,
-                "noticeIdentifier": "CAMBDC001-DN773860-89384462",
-                "title": "Consultancy Support",
-                "description": "Cambridge City Council requires consultancy support to understand and model the impacts and implications of changes to statutory delivery, specifically around Social Care Provision. At this stage the Council is looking for a consultant to support two phases of works: \r\n\r\n\u2022\tDevelopment of Advice and Support (Phase 1) - this phase includes providing advice and support to help with the process of developing a business case for unitary councils, with specific expertise needed on the impact of new unitary authorities delivering Social Care services (Adult&#039;s and Children&#039;s Social Care, Education &amp; Skills, SEND, Public Health, etc). This phase is anticipated to end in October 2025 at the latest\r\n\u2022\tImplementation Planning (Phase 2) - this phase focuses on the development of an Implementation plan alongside the local authority team. This would build on the Implementation and Transition plan that is submitted in Autum 2025 alongside any business cases for new unitary authorities. This phase is anticipated to end in February 2026.\r\n",
-                "cpvDescription": "Research and development consultancy services and Business analysis consultancy services and General management consultancy services",
-                "cpvDescriptionExpanded": "Research and development services and related consultancy services, IT services: consulting, software development, Internet and support, Software programming and consultancy services, Systems and technical consultancy services, Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services, Business and management consultancy services",
-                "publishedDate": "2025-05-07T16:02:08+01:00",
-                "deadlineDate": "2025-05-15T09:30:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 80000,
-                "valueHigh": 100000,
-                "postcode": "CB1 0JH",
-                "coordinates": "52.196481,0.063253",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2025-05-07T16:02:08+01:00",
-                "organisationName": "Cambridge City Council",
-                "sector": "",
-                "cpvCodes": "73200000 72221000 79411000",
-                "cpvCodesExtended": "73000000 72000000 72200000 72220000 79000000 79400000 79410000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2025-05-21T00:00:00+01:00",
-                "end": "2026-02-20T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "045e29cd-b6c5-448d-a817-5a35a7ff1f61",
                 "parentId": null,
                 "noticeIdentifier": "T25002-127",
@@ -2491,7 +2455,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "21"
+                "value": "20"
             },
             {
                 "key": "Australia",
@@ -3524,7 +3488,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "55"
+                "value": "54"
             },
             {
                 "key": "Pipeline",
@@ -3541,7 +3505,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "69"
+                "value": "68"
             },
             {
                 "key": "Closed",
