@@ -1696,42 +1696,6 @@
         {
             "score": 1,
             "item": {
-                "id": "feaca23e-72ef-4850-828e-98221de8ba7a",
-                "parentId": "91ab30d3-b58d-4d39-8af8-6f59d8efa3f2",
-                "noticeIdentifier": "CF-0214600D4L000000iAvzUAE",
-                "title": "Environmental &amp; Conventional Health &amp; Safety Services",
-                "description": "Sellafield Ltd requires Environmental and Conventional Health and Safety Services to meet the current and ongoing levels of demand as set by Sellafield Ltd and to assist in day-to-day operations.  Compliance with Environment and Safety regulatory requirements are fundamental to delivery across all aspects of Sellafield Ltd&#039;s operations; consequently, Sellafield Ltd requires access to an established supply chain with a proven track record and capable of delivering both Environmental and Conventional Health and Safety services.\r\n\r\nThe scope of this Procurement is to provide external specialised knowledge and experience and is split into six Lots as follows:\r\n\r\n\u2022\tLot 1- Environmental Assessment, Development and application of modelling codes and numerical analysis\r\n\u2022\tLot 2 - Monitoring and Characterisation\r\n\u2022\tLot 3 - Regulatory compliance and improvement\r\n\u2022\tLot 4 - Carbon Management and Environmental Sustainability\r\n\u2022\tLot 5 - Dangerous Substances &amp; Explosive Atmospheres (DSEAR) Assessment and Chemical Identification\r\n\u2022\tLot 6 - Occupational hygiene\r\n\r\nThis procurement will be managed via the shared service Nuclear Decommissioning Authority (NDA) OneNDA eCommercial Systems powered by Atamis, which can be accessed via the URL https://atamis-2464.my.site.com/s/Welcome.\r\n\r\nOnce you have registered on Atamis, you can access all documentation and submit a response using the record reference C8492.",
-                "cpvDescription": "Environmental services and Health and safety services",
-                "cpvDescriptionExpanded": "Sewage, refuse, cleaning and environmental services, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Hazard protection and control consultancy services",
-                "publishedDate": "2025-02-17T18:09:05Z",
-                "deadlineDate": "2025-05-15T13:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 9920000,
-                "valueHigh": 9920000,
-                "postcode": "",
-                "coordinates": "0,0",
-                "isSubNotice": true,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": false,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-02-17T18:09:27Z",
-                "organisationName": "Sellafield Ltd",
-                "sector": "",
-                "cpvCodes": "90700000 71317200",
-                "cpvCodesExtended": "90000000 71000000 71300000 71310000 71317000",
-                "region": "North West",
-                "regionText": "North West",
-                "start": "2025-10-01T00:00:00+01:00",
-                "end": "2030-10-01T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "6752c8f6-5aa4-43ee-8d67-111202eadb43",
                 "parentId": null,
                 "noticeIdentifier": "IT-100-3997-P0915",
@@ -2051,6 +2015,42 @@
                 "regionText": "Yorkshire and The Humber",
                 "start": "2026-05-01T00:00:00+01:00",
                 "end": "2026-05-02T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "74a2cf36-027e-4cad-86be-12fa364b4a6e",
+                "parentId": null,
+                "noticeIdentifier": "BIP950500531",
+                "title": "GB-London: Analysis, Research, and Evaluation Framework - Call for Expressions of Interest",
+                "description": "Analysis, Research, and Evaluation",
+                "cpvDescription": "Evaluation consultancy services and Survey services and Social research services and Data analysis services and Education and training services and Economic research services and Feasibility study",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services, Business and management consultancy services, Market and economic research; polling and statistics, Market research services, IT services: consulting, software development, Internet and support, Data services, Data-processing services, Education and training services, Survey services",
+                "publishedDate": "2025-05-15T18:20:03+01:00",
+                "deadlineDate": "2025-05-30T23:45:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 50000,
+                "valueHigh": 100000,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2025-05-15T18:20:03+01:00",
+                "organisationName": "The Careers and Enterprise Company",
+                "sector": "",
+                "cpvCodes": "79419000 79311000 79315000 72316000 80000000 79311400 79314000",
+                "cpvCodesExtended": "79000000 79400000 79410000 79300000 79310000 72000000 72300000 72310000 80000000 79311000",
+                "region": "London",
+                "regionText": "London",
+                "start": "2025-08-01T00:00:00+01:00",
+                "end": "2027-07-31T00:00:00+01:00"
             }
         },
         {
@@ -2559,7 +2559,7 @@
             },
             {
                 "key": "North West",
-                "value": "30"
+                "value": "29"
             },
             {
                 "key": "Yorkshire and The Humber",
@@ -2571,7 +2571,7 @@
             },
             {
                 "key": "London",
-                "value": "28"
+                "value": "29"
             },
             {
                 "key": "South East",
