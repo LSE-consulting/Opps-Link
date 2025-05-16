@@ -1,5 +1,5 @@
 {
-    "hitCount": 68,
+    "hitCount": 66,
     "noticeList": [
         {
             "score": 1,
@@ -1043,78 +1043,6 @@
                 "regionText": "",
                 "start": "2025-07-19T00:00:00+01:00",
                 "end": "2029-07-18T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "ee157e8f-5600-499e-935a-0a879b74a840",
-                "parentId": null,
-                "noticeIdentifier": "LLTC 2025 - GE Waste Management and Recycling",
-                "title": "Waste Management and Recycling",
-                "description": "Leighton-Linslade Town Council wishes to appoint a waste management and recycling provider who has recycling capabilities to maximise the amount of recycling from our activities associated with  parks management, cemetery management, office facilities, pavilions and for future sites as and when required. \r\n\r\nPlease complete the attached pre-qualification questionnaire to allow the Town Council to shortlist providers to a competitive quotation stage. The deadline for pre-qualification submissions is 11am on Friday 16 May 2025. \r\n\r\nThereafter, evaluation will be based on price, estimated recycling rates and energy recovery. Shortlisted providers will be required to attend a meeting of the Grounds and Environment Committee on 9 June 2025 (7.30pm) where a presentation is to be given setting out your environmental credentials and how you would responsibly treat waste generated from this contract to ensure that as close to 100% is diverted from landfill.\r\n\r\nA preferred supplier recommendation from the Grounds and Environment Committee will be made to Council at its meeting to be  held 30 June 2025.\r\n\r\nContract to commence on 7 October 2025 for a five year period.",
-                "cpvDescription": "Sewage, refuse, cleaning and environmental services",
-                "cpvDescriptionExpanded": "Sewage, refuse, cleaning and environmental services",
-                "publishedDate": "2025-04-29T14:43:17+01:00",
-                "deadlineDate": "2025-05-16T11:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 180000,
-                "valueHigh": 200000,
-                "postcode": "LU7 1HD",
-                "coordinates": "51.892898,-0.659637",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-04-29T14:43:17+01:00",
-                "organisationName": "Leighton Linslade Town Council",
-                "sector": null,
-                "cpvCodes": "90000000",
-                "cpvCodesExtended": "90000000",
-                "region": "",
-                "regionText": "",
-                "start": "2025-10-07T00:00:00+01:00",
-                "end": "2030-10-06T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "5cf7b7ed-8213-4d9e-90c5-586563733d53",
-                "parentId": null,
-                "noticeIdentifier": "LLTC 2025 (Insurance)",
-                "title": "Insurance Renewal",
-                "description": "Leighton-Linslade is the largest town within the unitary authority area of Central Bedfordshire. We are seeking competitive quotations for the provision of our insurance to include:\r\nPublic Liability - &#xA3;15,000,000\r\nEmployers Liability - &#xA3;10,000,000\r\nHirers Liability - &#xA3;2,000,000\r\nFidelity Guarantee - &#xA3;5,000,000\r\nFleet Cover - &#xA3;450,000\r\nBuildings  - &#xA3;7,919,369.18\r\nContents Cover - &#xA3;1,956,799.81\r\nBusiness Interruption - &#xA3;100,000\r\nOfficials Indemnity - &#xA3;500,000\r\nLegal Expenses -&#xA3;250,000\r\nMoney with assault extension -&#xA3;5,000\r\nPersonal Accident - &#xA3;50,000",
-                "cpvDescription": "Financial and insurance services",
-                "cpvDescriptionExpanded": "Financial and insurance services",
-                "publishedDate": "2025-04-15T10:02:54+01:00",
-                "deadlineDate": "2025-05-16T11:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 60000,
-                "valueHigh": 66000,
-                "postcode": "LU7 1HD",
-                "coordinates": "51.892898,-0.659637",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": false,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-04-15T10:02:54+01:00",
-                "organisationName": "Leighton Linslade Town Council",
-                "sector": null,
-                "cpvCodes": "66000000",
-                "cpvCodesExtended": "66000000",
-                "region": "",
-                "regionText": "",
-                "start": "2025-06-29T00:00:00+01:00",
-                "end": "2028-06-29T00:00:00+01:00"
             }
         },
         {
@@ -3488,7 +3416,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "54"
+                "value": "52"
             },
             {
                 "key": "Pipeline",
@@ -3505,7 +3433,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "68"
+                "value": "66"
             },
             {
                 "key": "Closed",
