@@ -256,42 +256,6 @@
         {
             "score": 1,
             "item": {
-                "id": "b3bb1ce7-9c8c-4b5c-93bb-f89d21f026dc",
-                "parentId": null,
-                "noticeIdentifier": "UKSAC25_0015",
-                "title": "UK Space Agency: Technical Assurance and Research and Development Consultancy",
-                "description": "UKSA is opening a short Request for Information ahead of opening a planned procurement for a 2-year contract for technical advice services. UKSA is intending to procure two lots:\r\n\r\nLot 1 (indicative total value of \u00a3450,200 inclusive of VAT for year 1 and 2) is focused on technical assurance activity. The contracted resource will include systems engineers and subject matter experts within fields pertinent to the space sector. Activities include but are not limited to:\r\n* Participation in technical milestone reviews\r\n* Participation in review panels for funding applications\r\n* Attendance of regular project review meetings\r\n* Providing ad-hoc technical advice across the project and programme teams\r\n* Contribute where appropriate towards studies run by the Office of the Chief Engineer (OCE).\r\n\r\nLot 2 (indicative value of \u00a3350,400 inclusive of VAT for year 1 and 2) is focused on research and development study support. The contracted resource will deliver technical desk-based studies into the Office of Chief Engineer portfolio of R&D activities. This will include, but not limited to:\r\n* Technical and programmatic feasibility studies\r\n* Technology report (inc insights, horizon scanning reports and technical notes)\r\n* Oversight Board participation\r\n* Bid application reviews\r\n\r\nInterested parties are invited to submit responses to this short Request for Information exercise detailed in \"UKSA RFI - Technical Assurance and R&D Services\" via email to commercial@ukspaceagency.gov.uk by 17:00 on Friday the 16th of May. Please note you are NOT required to submit a response to participate in the procurement; this will be in line with the process for the Space Enabled and Geospatial Services Dynamic Purchasing System, where relevant suppliers who meet the filters on the DPS will be invited to participate in due course.",
-                "cpvDescription": "Research and development services and related consultancy services",
-                "cpvDescriptionExpanded": "Research and development services and related consultancy services",
-                "publishedDate": "2025-05-06T17:15:59+01:00",
-                "deadlineDate": "2025-05-16T23:59:59+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "PreProcurement",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-05-07T09:08:06+01:00",
-                "organisationName": "UK SPACE AGENCY",
-                "sector": null,
-                "cpvCodes": "73000000",
-                "cpvCodesExtended": "73000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "start": "",
-                "end": ""
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "fe8eac49-fc38-4220-9102-74281fcb9263",
                 "parentId": null,
                 "noticeIdentifier": "Defence Medical Services Research Steering Group Notice",
@@ -1007,6 +971,42 @@
                 "regionText": "",
                 "start": "2025-09-01T00:00:00+01:00",
                 "end": "2026-06-30T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "ee157e8f-5600-499e-935a-0a879b74a840",
+                "parentId": null,
+                "noticeIdentifier": "LLTC 2025 - GE Waste Management and Recycling",
+                "title": "Waste Management and Recycling",
+                "description": "Leighton-Linslade Town Council wishes to appoint a waste management and recycling provider who has recycling capabilities to maximise the amount of recycling from our activities associated with  parks management, cemetery management, office facilities, pavilions and for future sites as and when required. \r\n\r\nPlease complete the attached pre-qualification questionnaire to allow the Town Council to shortlist providers to a competitive quotation stage. The deadline for pre-qualification submissions is 11am on Thursday12 June 2025. \r\n\r\nThereafter, evaluation will be based on price, estimated recycling rates and energy recovery. Shortlisted providers will be required to attend a meeting of the Grounds and Environment Committee on 23 June 2025 (7.30pm) where a presentation is to be given setting out your environmental credentials and how you would responsibly treat waste generated from this contract to ensure that as close to 100% is diverted from landfill.\r\n\r\nA preferred supplier recommendation from the Grounds and Environment Committee will be made to Council at its meeting to be  held 30 June 2025.\r\n\r\nContract to commence on 7 October 2025 for a five year period.",
+                "cpvDescription": "Sewage, refuse, cleaning and environmental services",
+                "cpvDescriptionExpanded": "Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2025-04-29T14:43:17+01:00",
+                "deadlineDate": "2025-06-12T11:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 180000,
+                "valueHigh": 200000,
+                "postcode": "LU7 1HD",
+                "coordinates": "51.892898,-0.659637",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2025-05-19T09:45:21+01:00",
+                "organisationName": "Leighton Linslade Town Council",
+                "sector": null,
+                "cpvCodes": "90000000",
+                "cpvCodesExtended": "90000000",
+                "region": "",
+                "regionText": "",
+                "start": "2025-10-07T00:00:00+01:00",
+                "end": "2030-10-06T00:00:00+01:00"
             }
         },
         {
@@ -2467,11 +2467,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "29"
+                "value": "28"
             },
             {
                 "key": "East of England",
-                "value": "31"
+                "value": "30"
             },
             {
                 "key": "Egypt",
@@ -2483,31 +2483,31 @@
             },
             {
                 "key": "North East",
-                "value": "28"
+                "value": "27"
             },
             {
                 "key": "North West",
-                "value": "29"
-            },
-            {
-                "key": "Yorkshire and The Humber",
-                "value": "31"
-            },
-            {
-                "key": "West Midlands",
-                "value": "32"
-            },
-            {
-                "key": "London",
-                "value": "29"
-            },
-            {
-                "key": "South East",
                 "value": "28"
             },
             {
+                "key": "Yorkshire and The Humber",
+                "value": "30"
+            },
+            {
+                "key": "West Midlands",
+                "value": "31"
+            },
+            {
+                "key": "London",
+                "value": "28"
+            },
+            {
+                "key": "South East",
+                "value": "27"
+            },
+            {
                 "key": "South West",
-                "value": "29"
+                "value": "28"
             },
             {
                 "key": "Estonia",
@@ -3399,15 +3399,15 @@
             },
             {
                 "key": "Scotland",
-                "value": "23"
+                "value": "22"
             },
             {
                 "key": "Wales",
-                "value": "24"
+                "value": "23"
             },
             {
                 "key": "Northern Ireland",
-                "value": "22"
+                "value": "21"
             }
         ],
         "other": 0
@@ -3416,7 +3416,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "52"
+                "value": "53"
             },
             {
                 "key": "Pipeline",
@@ -3424,7 +3424,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "7"
+                "value": "6"
             }
         ],
         "other": 0
