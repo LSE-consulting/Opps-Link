@@ -1,5 +1,5 @@
 {
-    "hitCount": 66,
+    "hitCount": 68,
     "noticeList": [
         {
             "score": 1,
@@ -224,7 +224,7 @@
                 "parentId": null,
                 "noticeIdentifier": "UKSAC25_0002",
                 "title": "UKSA National Space Operations Centre (NSpOC) Upcoming Requirements",
-                "description": "*This notice has been updated on 9th May to update that SDA data and orbital analysts will be launching by end of day 23rd of May. There have been changes to the value and duration of some opportunities. We expect GEO sensors to launch next week as planned as an open procurement. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 25th April to update the LEO feasibility study launch moving to Q3 and the GEO sovereign sensor changing to an open procurement. All others unchanged and still targeting launch by 15th May 2025. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 10th April to update the approach to market date to 15th of May. For the avoidance of doubt, this was a mandatory field that was populated with 1st of April. NO OPPORTUNITIES HAVE YET BEEN ISSUED*\r\n\r\nFollowing its previous notice, UKSA is issuing an update to its forthcoming procurement opportunities relating to the National Space Operations Centre (NSpOC). Please note these requirements are still subject to budget confirmation. \r\n\r\nOrbital Analyst Services\r\nTotal Contract Value: &#xA3;6,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of orbital analyst services to analyse and interpret Space Surveillance and Tracking data. We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by the 23rd of May. Contract start date remains 1st of September 2025. \r\n\r\nSDA Data Lot 1 and Lot 2\r\nTotal Contract Value: Up to &#xA3;954,860.00 for Lot 1 and &#xA3;1,909,719.00 for Lot 2 (exclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of SDA data in Low Earth Orbit (Lot 1) and Medium Earth Orbit and Geostationary Orbit (Lot 2). We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by 23rd of May 2025. Contract start date will be between 1st of September and 1st of October 2025. \r\n\r\nSDA Data Lot 3\r\nTotal Contract Value: &#xA3;9,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years.\r\nThe provision of SDA Data in Geostationary Orbit. We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by the 23rd of May. Contract start date will be between the 1st of September and 1st of October 2025. \r\n\r\nSovereign Sensor Capability (LEO) Feasibility Study\r\nTotal Contract Value: TBC\r\nTotal Contract Duration: TBC\r\nThe provision of a feasibility study to support the development of LEO sovereign SDA sensor capabilities. UKSA intends to award one contract and intends to issue this to relevant suppliers on the Space Enabled and Geospatial Services DPS in Q3 2025.Contract start date is TBC. \r\n\r\nSovereign Sensor Capability (GEO)\r\nTotal Contract Value: Up to &#xA3;7,500,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years\r\nThe provision of GEO sovereign sensor capabilities. We intend to issue this requirement as an OPEN PROCUREMENT imminently. Contract start date is August/Sept 2025.",
+                "description": "*This notice has been updated on 19th May to confirm that two opportunities have now been issued*\r\n\r\n*This notice has been updated on 9th May to update that SDA data and orbital analysts will be launching by end of day 23rd of May. There have been changes to the value and duration of some opportunities. We expect GEO sensors to launch next week as planned as an open procurement. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 25th April to update the LEO feasibility study launch moving to Q3 and the GEO sovereign sensor changing to an open procurement. All others unchanged and still targeting launch by 15th May 2025. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 10th April to update the approach to market date to 15th of May. For the avoidance of doubt, this was a mandatory field that was populated with 1st of April. NO OPPORTUNITIES HAVE YET BEEN ISSUED*\r\n\r\nFollowing its previous notice, UKSA is issuing an update to its forthcoming procurement opportunities relating to the National Space Operations Centre (NSpOC). Please note these requirements are still subject to budget confirmation. \r\n\r\nOrbital Analyst Services\r\nTotal Contract Value: &#xA3;6,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of orbital analyst services to analyse and interpret Space Surveillance and Tracking data. We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by the 23rd of May. Contract start date remains 1st of September 2025. \r\n\r\nSDA Data Lot 1 and Lot 2\r\nTotal Contract Value: Up to &#xA3;954,860.00 for Lot 1 and &#xA3;1,909,719.00 for Lot 2 (exclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of SDA data in Low Earth Orbit (Lot 1) and Medium Earth Orbit and Geostationary Orbit (Lot 2). We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by 23rd of May 2025. Contract start date will be between 1st of September and 1st of October 2025. \r\n\r\nSDA Data Lot 3\r\nTotal Contract Value: &#xA3;9,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years.\r\nThe provision of SDA Data in Geostationary Orbit. We have issued this requirement on 19th of May to relevant suppliers who met the filters selected on the Space Enabled and Geospatial Services DPS. We are unable to issue this to additional suppliers in accordance with the DPS procedure. Contract start date will be between the 1st of September and 1st of October 2025. \r\n\r\nSovereign Sensor Capability (GEO)\r\nTotal Contract Value: Up to &#xA3;7,500,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years\r\nThe provision of GEO sovereign sensor capabilities. This is an open procurement and the Tender Notice can be found on Find a Tender here: https://www.find-tender.service.gov.uk/Notice/022039-2025. Contract start date is August/Sept 2025.",
                 "cpvDescription": "Data services and Research and development services and related consultancy services",
                 "cpvDescriptionExpanded": "IT services: consulting, software development, Internet and support, Research and development services and related consultancy services",
                 "publishedDate": "2025-03-13T09:55:31Z",
@@ -242,7 +242,7 @@
                 "noticeStatus": "Open",
                 "isSuitableForSme": true,
                 "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-05-09T10:51:04+01:00",
+                "lastNotifableUpdate": "2025-05-19T13:50:39+01:00",
                 "organisationName": "UK SPACE AGENCY",
                 "sector": null,
                 "cpvCodes": "72300000 73000000",
@@ -1948,6 +1948,78 @@
         {
             "score": 1,
             "item": {
+                "id": "9f682753-e7f4-4bec-adb5-2b61157f18ad",
+                "parentId": null,
+                "noticeIdentifier": "BIP940167507",
+                "title": "GB-London: Employee Engagement Survey",
+                "description": "The General dental Council (GDC) is inviting tenders for the provision of Employee Engagement Survey.\r\n      The GDC is committed to fostering an inclusive, high-performing organisational culture where employees&#039; voices are actively valued and engagement is embedded at all levels. As part of this commitment, the GDC seeks to undertake a comprehensive employee engagement survey to establish a baseline for understanding staff sentiment, motivation, and perceptions of the workplace environment. \r\n      The appointed supplier will be responsible for the end-to-end design, delivery and analysis of the GDC&#039;s employee engagement survey. The service will be inclusive, accessible and compliant with all relevant data protection and ethical standards. The high-level scope of services will include, but is not limited to the following: \r\n      - Survey design and delivery\r\n      - Data analysis and reporting\r\n      - Training and capacity building\r\n      The Contract is expected to commence in September 2025 and will have an initial term of 12 months. The Contract may be extended for up to two additional periods of 12 months each. The maximum total duration of the contract is 3 years.",
+                "cpvDescription": "Survey services and Public-opinion polling services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Market and economic research; polling and statistics, Market research services",
+                "publishedDate": "2025-05-19T16:00:04+01:00",
+                "deadlineDate": "2025-05-30T00:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 50000,
+                "valueHigh": 100000,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": false,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2025-05-19T16:00:04+01:00",
+                "organisationName": "General Dental Council",
+                "sector": "",
+                "cpvCodes": "79311000 79320000",
+                "cpvCodesExtended": "79000000 79300000 79310000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2025-09-01T00:00:00+01:00",
+                "end": "2026-08-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "744126d5-d373-4926-8fa1-8992728d7010",
+                "parentId": null,
+                "noticeIdentifier": "xxxx",
+                "title": "Developing the synergies between Project PaLaDIn and Project Mercury",
+                "description": "Develop, test and deploy frameworks that will enable FSHD patients and FSHD patient advocacy organisations in The Netherlands, France, Germany, Italy, Belgium, Spain, and the United Kingdom to pragmatically and effectively lead, scale and harmonise cross-sector collaboration through utilising the Interactium. Ensure FSHD patients are supported through decisions concerning participation in clinical trials and ultimately help move critical research forward through a navigator program.\r\nGenerate an Interactium-compatible HTA assessment model for FSHD with a set of SOPs to enable other groups to recreate this work.",
+                "cpvDescription": "Research and experimental development services and Research and development consultancy services and Design and execution of research and development",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services",
+                "publishedDate": "2025-05-19T15:14:03+01:00",
+                "deadlineDate": null,
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": "2025-06-16T23:59:59+01:00",
+                "valueLow": 1338000,
+                "valueHigh": 1673000,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Pipeline",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2025-05-19T15:14:03+01:00",
+                "organisationName": "N H S Shared Business Services",
+                "sector": null,
+                "cpvCodes": "73100000 73200000 73300000",
+                "cpvCodesExtended": "73000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Albania,Austria,Belgium,Bulgaria,Croatia,Cyprus,Czechia,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Latvia,Liechtenstein,Lithuania,Luxembourg,Malta,Montenegro,Netherlands,North Macedonia,Norway,Poland,Portugal,Romania,Serbia,Slovakia,Slovenia,Spain,Sweden,Switzerland,Turkey",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Albania,Austria,Belgium,Bulgaria,Croatia,Cyprus,Czechia,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Latvia,Liechtenstein,Lithuania,Luxembourg,Malta,Montenegro,Netherlands,North Macedonia,Norway,Poland,Portugal,Romania,Serbia,Slovakia,Slovenia,Spain,Sweden,Switzerland,Turkey",
+                "start": "2025-08-29T00:00:00+01:00",
+                "end": "2027-12-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "74a2cf36-027e-4cad-86be-12fa364b4a6e",
                 "parentId": null,
                 "noticeIdentifier": "BIP950500531",
@@ -2383,7 +2455,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "20"
+                "value": "21"
             },
             {
                 "key": "Australia",
@@ -2395,7 +2467,7 @@
             },
             {
                 "key": "Belgium",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Anguilla",
@@ -2463,15 +2535,15 @@
             },
             {
                 "key": "Denmark",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "East Midlands",
-                "value": "28"
+                "value": "29"
             },
             {
                 "key": "East of England",
-                "value": "30"
+                "value": "31"
             },
             {
                 "key": "Egypt",
@@ -2483,35 +2555,35 @@
             },
             {
                 "key": "North East",
-                "value": "27"
+                "value": "28"
             },
             {
                 "key": "North West",
-                "value": "28"
+                "value": "29"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "30"
-            },
-            {
-                "key": "West Midlands",
                 "value": "31"
             },
             {
+                "key": "West Midlands",
+                "value": "32"
+            },
+            {
                 "key": "London",
-                "value": "28"
+                "value": "29"
             },
             {
                 "key": "South East",
-                "value": "27"
-            },
-            {
-                "key": "South West",
                 "value": "28"
             },
             {
+                "key": "South West",
+                "value": "29"
+            },
+            {
                 "key": "Estonia",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Ethiopia",
@@ -2519,135 +2591,135 @@
             },
             {
                 "key": "Albania",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Austria",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Bulgaria",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Croatia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Cyprus",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Czechia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Finland",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "France",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Germany",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Greece",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Hungary",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Iceland",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Ireland",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Italy",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Latvia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Liechtenstein",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Lithuania",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Luxembourg",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Malta",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Montenegro",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Netherlands",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "North Macedonia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Norway",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Poland",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Portugal",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Romania",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Serbia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Slovakia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Slovenia",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Spain",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Sweden",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Switzerland",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Turkey",
-                "value": "3"
+                "value": "4"
             },
             {
                 "key": "Georgia",
@@ -3399,15 +3471,15 @@
             },
             {
                 "key": "Scotland",
-                "value": "22"
-            },
-            {
-                "key": "Wales",
                 "value": "23"
             },
             {
+                "key": "Wales",
+                "value": "24"
+            },
+            {
                 "key": "Northern Ireland",
-                "value": "21"
+                "value": "22"
             }
         ],
         "other": 0
@@ -3416,11 +3488,11 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "53"
+                "value": "54"
             },
             {
                 "key": "Pipeline",
-                "value": "7"
+                "value": "8"
             },
             {
                 "key": "PreProcurement",
@@ -3433,7 +3505,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "66"
+                "value": "68"
             },
             {
                 "key": "Closed",
