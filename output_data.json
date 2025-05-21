@@ -1,5 +1,5 @@
 {
-    "hitCount": 68,
+    "hitCount": 67,
     "noticeList": [
         {
             "score": 1,
@@ -224,7 +224,7 @@
                 "parentId": null,
                 "noticeIdentifier": "UKSAC25_0002",
                 "title": "UKSA National Space Operations Centre (NSpOC) Upcoming Requirements",
-                "description": "*This notice has been updated on 19th May to confirm that two opportunities have now been issued*\r\n\r\n*This notice has been updated on 9th May to update that SDA data and orbital analysts will be launching by end of day 23rd of May. There have been changes to the value and duration of some opportunities. We expect GEO sensors to launch next week as planned as an open procurement. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 25th April to update the LEO feasibility study launch moving to Q3 and the GEO sovereign sensor changing to an open procurement. All others unchanged and still targeting launch by 15th May 2025. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 10th April to update the approach to market date to 15th of May. For the avoidance of doubt, this was a mandatory field that was populated with 1st of April. NO OPPORTUNITIES HAVE YET BEEN ISSUED*\r\n\r\nFollowing its previous notice, UKSA is issuing an update to its forthcoming procurement opportunities relating to the National Space Operations Centre (NSpOC). Please note these requirements are still subject to budget confirmation. \r\n\r\nOrbital Analyst Services\r\nTotal Contract Value: &#xA3;6,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of orbital analyst services to analyse and interpret Space Surveillance and Tracking data. We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by the 23rd of May. Contract start date remains 1st of September 2025. \r\n\r\nSDA Data Lot 1 and Lot 2\r\nTotal Contract Value: Up to &#xA3;954,860.00 for Lot 1 and &#xA3;1,909,719.00 for Lot 2 (exclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of SDA data in Low Earth Orbit (Lot 1) and Medium Earth Orbit and Geostationary Orbit (Lot 2). We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by 23rd of May 2025. Contract start date will be between 1st of September and 1st of October 2025. \r\n\r\nSDA Data Lot 3\r\nTotal Contract Value: &#xA3;9,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years.\r\nThe provision of SDA Data in Geostationary Orbit. We have issued this requirement on 19th of May to relevant suppliers who met the filters selected on the Space Enabled and Geospatial Services DPS. We are unable to issue this to additional suppliers in accordance with the DPS procedure. Contract start date will be between the 1st of September and 1st of October 2025. \r\n\r\nSovereign Sensor Capability (GEO)\r\nTotal Contract Value: Up to &#xA3;7,500,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years\r\nThe provision of GEO sovereign sensor capabilities. This is an open procurement and the Tender Notice can be found on Find a Tender here: https://www.find-tender.service.gov.uk/Notice/022039-2025. Contract start date is August/Sept 2025.",
+                "description": "*This notice has been updated on 20th May to confirm that three opportunities have now been issued. UKSA&#039;s SDA Data lots are still expected to be issued this week*\r\n\r\n*This notice has been updated on 9th May to update that SDA data and orbital analysts will be launching by end of day 23rd of May. There have been changes to the value and duration of some opportunities. We expect GEO sensors to launch next week as planned as an open procurement. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 25th April to update the LEO feasibility study launch moving to Q3 and the GEO sovereign sensor changing to an open procurement. All others unchanged and still targeting launch by 15th May 2025. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 10th April to update the approach to market date to 15th of May. For the avoidance of doubt, this was a mandatory field that was populated with 1st of April. NO OPPORTUNITIES HAVE YET BEEN ISSUED*\r\n\r\nFollowing its previous notice, UKSA is issuing an update to its forthcoming procurement opportunities relating to the National Space Operations Centre (NSpOC). Please note these requirements are still subject to budget confirmation. \r\n\r\nOrbital Analyst Services\r\nTotal Contract Value: &#xA3;6,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of orbital analyst services to analyse and interpret Space Surveillance and Tracking data. This requirement has now been issued to suppliers who meet relevant filters on the Space Enabled and Geospatial Services DPS. Contract start date remains 1st of September 2025. \r\n\r\nSDA Data Lot 1 and Lot 2\r\nTotal Contract Value: Up to &#xA3;954,860.00 for Lot 1 and &#xA3;1,909,719.00 for Lot 2 (exclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of SDA data in Low Earth Orbit (Lot 1) and Medium Earth Orbit and Geostationary Orbit (Lot 2). We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by 23rd of May 2025. Contract start date will be between 1st of September and 1st of October 2025. \r\n\r\nSDA Data Lot 3\r\nTotal Contract Value: &#xA3;9,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years.\r\nThe provision of SDA Data in Geostationary Orbit. We have issued this requirement on 19th of May to relevant suppliers who met the filters selected on the Space Enabled and Geospatial Services DPS. We are unable to issue this to additional suppliers in accordance with the DPS procedure. Contract start date will be between the 1st of September and 1st of October 2025. \r\n\r\nSovereign Sensor Capability (GEO)\r\nTotal Contract Value: Up to &#xA3;7,500,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years\r\nThe provision of GEO sovereign sensor capabilities. This is an open procurement and the Tender Notice can be found on Find a Tender here: https://www.find-tender.service.gov.uk/Notice/022039-2025. Contract start date is August/Sept 2025.",
                 "cpvDescription": "Data services and Research and development services and related consultancy services",
                 "cpvDescriptionExpanded": "IT services: consulting, software development, Internet and support, Research and development services and related consultancy services",
                 "publishedDate": "2025-03-13T09:55:31Z",
@@ -242,7 +242,7 @@
                 "noticeStatus": "Open",
                 "isSuitableForSme": true,
                 "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-05-19T13:50:39+01:00",
+                "lastNotifableUpdate": "2025-05-20T14:50:42+01:00",
                 "organisationName": "UK SPACE AGENCY",
                 "sector": null,
                 "cpvCodes": "72300000 73000000",
@@ -431,42 +431,6 @@
                 "regionText": "Wales",
                 "start": "2025-07-01T00:00:00+01:00",
                 "end": "2026-06-30T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "bfb52010-04d2-41b6-95ad-a30184e7096d",
-                "parentId": null,
-                "noticeIdentifier": "prj_4222",
-                "title": "Delivery Partner 2 (DP2) - WH:SHF and WH:LG",
-                "description": "This notice is updated with the DRAFT requirements for the potential Delivery Partner 2 (DP2) procurement. Please note that the following requirements are in DRAFT form, and are attached to this notice.\r\n\r\nThe purpose of sharing these DRAFT requirements is to inform DESNZ's understanding of the market's perception. Feedback is requested solely via the Microsoft Forms Questionnaire included in the \"DP2 Draft Requirements Supplier Questionnaire\" document attached to this notice - further information can be found in that attached document. \r\n\r\nAny responses received as part of this engagement will not be evaluated as part of a tender response and will not prejudice any involvement in a future procurement process.  \r\n\r\nThe Authority reserves the right:\r\n\u2022\tTo amend these requirements in advance of the formal ITT publication, which will be no earlier than May 2025;\r\n\u2022\tNot to proceed with the DP2 procurement.\r\n\r\nSuppliers are not entitled to claim from the Authority any costs or expenses that you may incur if you decide to start preparing your tender.\r\n\r\nDP2 Data Room Update  \r\nA Data Room for the potential DP2 procurement has been created within the Department's eSourcing portal, Jaggaer (accessible here: https://beisgroup.ukp.app.jaggaer.com/)\r\n\r\nAs previous communications and market engagement events have stated, the Fund Administration & Disbursement Services DPS (FAADS) RM6322 is DESNZ's indicative route to market. To access this Data Room, potential tenderers must register as a supplier on the FAADS DPS under Filter 5 - Full Programme Management; attached to this notice is a DP2 market engagement PowerPoint with instructions on how to sign up to the DPS.\r\n\r\nThe purpose of this Data Room is to share information from the Department and any incumbent suppliers with the market that is related to this requirement, prior to the release of a tender. Due to the confidential nature of some of this information, suppliers must sign and return a mandatory Non-Disclosure Agreement (NDA). Once signed up to the FAADS DPS, please contact hthcommercial@energysecurity.gov.uk to receive the NDA and any further instructions.\r\n\r\nITT_2015 has been created for the purpose of sharing documents via a Data Room in Jaggaer before the ITT is released. The dates and times listed are solely for the purpose of creating the Data Room, and will be amended pending the outcome of internal governance and approvals processes. Should an ITT be published for this requirement, it will be done via this Jaggaer project (itt_2015).\r\n\r\nPlease note: There are currently no documents in the Data Room - this is a notice to inform you of its creation, location and our intent to publish information in there soon.\r\n\r\nPlease note: DESNZ reserves the right not to proceed with an ITT or procurement for DP2.",
-                "cpvDescription": "Energy and related services and Administration services and Business services: law, marketing, consulting, recruitment, printing and security",
-                "cpvDescriptionExpanded": "Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Administration, defence and social security services, Business services: law, marketing, consulting, recruitment, printing and security",
-                "publishedDate": "2024-09-04T17:30:28+01:00",
-                "deadlineDate": "2025-05-20T23:59:59+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "PreProcurement",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-04-28T11:15:11+01:00",
-                "organisationName": "Business Energy and Industrial Strategy",
-                "sector": null,
-                "cpvCodes": "71314000 75100000 79000000",
-                "cpvCodesExtended": "71000000 71300000 71310000 75000000 79000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "start": "",
-                "end": ""
             }
         },
         {
@@ -2539,11 +2503,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "29"
+                "value": "28"
             },
             {
                 "key": "East of England",
-                "value": "31"
+                "value": "30"
             },
             {
                 "key": "Egypt",
@@ -2555,31 +2519,31 @@
             },
             {
                 "key": "North East",
-                "value": "28"
+                "value": "27"
             },
             {
                 "key": "North West",
-                "value": "29"
-            },
-            {
-                "key": "Yorkshire and The Humber",
-                "value": "31"
-            },
-            {
-                "key": "West Midlands",
-                "value": "32"
-            },
-            {
-                "key": "London",
-                "value": "29"
-            },
-            {
-                "key": "South East",
                 "value": "28"
             },
             {
+                "key": "Yorkshire and The Humber",
+                "value": "30"
+            },
+            {
+                "key": "West Midlands",
+                "value": "31"
+            },
+            {
+                "key": "London",
+                "value": "28"
+            },
+            {
+                "key": "South East",
+                "value": "27"
+            },
+            {
                 "key": "South West",
-                "value": "29"
+                "value": "28"
             },
             {
                 "key": "Estonia",
@@ -3496,7 +3460,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "6"
+                "value": "5"
             }
         ],
         "other": 0
@@ -3505,7 +3469,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "68"
+                "value": "67"
             },
             {
                 "key": "Closed",
