@@ -1,5 +1,5 @@
 {
-    "hitCount": 67,
+    "hitCount": 66,
     "noticeList": [
         {
             "score": 1,
@@ -215,42 +215,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
                 "start": "2025-10-30T00:00:00Z",
                 "end": "2031-04-29T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "6550b759-b799-4cc3-a053-5adfd1f88458",
-                "parentId": null,
-                "noticeIdentifier": "UKSAC25_0002",
-                "title": "UKSA National Space Operations Centre (NSpOC) Upcoming Requirements",
-                "description": "*This notice has been updated on 20th May to confirm that three opportunities have now been issued. UKSA&#039;s SDA Data lots are still expected to be issued this week*\r\n\r\n*This notice has been updated on 9th May to update that SDA data and orbital analysts will be launching by end of day 23rd of May. There have been changes to the value and duration of some opportunities. We expect GEO sensors to launch next week as planned as an open procurement. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 25th April to update the LEO feasibility study launch moving to Q3 and the GEO sovereign sensor changing to an open procurement. All others unchanged and still targeting launch by 15th May 2025. NO OPPORTUNITIES HAVE BEEN ISSUED*\r\n\r\n*This notice has been updated on 10th April to update the approach to market date to 15th of May. For the avoidance of doubt, this was a mandatory field that was populated with 1st of April. NO OPPORTUNITIES HAVE YET BEEN ISSUED*\r\n\r\nFollowing its previous notice, UKSA is issuing an update to its forthcoming procurement opportunities relating to the National Space Operations Centre (NSpOC). Please note these requirements are still subject to budget confirmation. \r\n\r\nOrbital Analyst Services\r\nTotal Contract Value: &#xA3;6,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of orbital analyst services to analyse and interpret Space Surveillance and Tracking data. This requirement has now been issued to suppliers who meet relevant filters on the Space Enabled and Geospatial Services DPS. Contract start date remains 1st of September 2025. \r\n\r\nSDA Data Lot 1 and Lot 2\r\nTotal Contract Value: Up to &#xA3;954,860.00 for Lot 1 and &#xA3;1,909,719.00 for Lot 2 (exclusive of VAT)\r\nTotal Contract Duration: 5 years\r\nThe provision of SDA data in Low Earth Orbit (Lot 1) and Medium Earth Orbit and Geostationary Orbit (Lot 2). We intend to issue this requirement to relevant suppliers on the Space Enabled and Geospatial Services DPS by 23rd of May 2025. Contract start date will be between 1st of September and 1st of October 2025. \r\n\r\nSDA Data Lot 3\r\nTotal Contract Value: &#xA3;9,000,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years.\r\nThe provision of SDA Data in Geostationary Orbit. We have issued this requirement on 19th of May to relevant suppliers who met the filters selected on the Space Enabled and Geospatial Services DPS. We are unable to issue this to additional suppliers in accordance with the DPS procedure. Contract start date will be between the 1st of September and 1st of October 2025. \r\n\r\nSovereign Sensor Capability (GEO)\r\nTotal Contract Value: Up to &#xA3;7,500,000 (inclusive of VAT)\r\nTotal Contract Duration: 3 years\r\nThe provision of GEO sovereign sensor capabilities. This is an open procurement and the Tender Notice can be found on Find a Tender here: https://www.find-tender.service.gov.uk/Notice/022039-2025. Contract start date is August/Sept 2025.",
-                "cpvDescription": "Data services and Research and development services and related consultancy services",
-                "cpvDescriptionExpanded": "IT services: consulting, software development, Internet and support, Research and development services and related consultancy services",
-                "publishedDate": "2025-03-13T09:55:31Z",
-                "deadlineDate": null,
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": "2025-05-22T23:59:59+01:00",
-                "valueLow": 1000000,
-                "valueHigh": 9000000,
-                "postcode": "HP144UE",
-                "coordinates": "51.649055,-0.844553",
-                "isSubNotice": false,
-                "noticeType": "Pipeline",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-05-20T14:50:42+01:00",
-                "organisationName": "UK SPACE AGENCY",
-                "sector": null,
-                "cpvCodes": "72300000 73000000",
-                "cpvCodesExtended": "72000000 73000000",
-                "region": "",
-                "regionText": "",
-                "start": "2025-09-01T00:00:00+01:00",
-                "end": "2030-09-01T00:00:00+01:00"
             }
         },
         {
@@ -3456,7 +3420,7 @@
             },
             {
                 "key": "Pipeline",
-                "value": "8"
+                "value": "7"
             },
             {
                 "key": "PreProcurement",
@@ -3469,7 +3433,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "67"
+                "value": "66"
             },
             {
                 "key": "Closed",
